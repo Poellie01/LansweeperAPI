@@ -10,4 +10,3 @@ so as example "pip install requests" if you get the error messagas that package 
 On line 13 change "APIKEY" to your API found under documentation tab inside Lansweeper
 On line 14 change "lansweeperserver:port" to your server and port number
 On line 15 change the same "lansweeperserver:port" to your server and port number
-
